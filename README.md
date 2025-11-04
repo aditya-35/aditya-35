@@ -1,7 +1,7 @@
 <img src="https://github.com/aditya-35/AdityaKumar/blob/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png">
 
 <h2> Hey there! I'm Aditya.</h2>
-<p> I am curious guy from a small village of Unnao,UP.</p>
+<p> I am curious guy from Unnao,UP.</p>
 <p>A passionate and self-driven tech enthusiast with a background in Software Engineering and a Master of Computer Application (MCA) from Madan Mohan Malviya University of Technology, Gorakhpur.
 
 I'm on a journey to build a career as a Web Developer and am currently enhancing my skills in React, Nextjs to become a MERN full stack developer. I enjoy solving problems, learning new technologies, and creating projects that add value.</p>
@@ -11,9 +11,9 @@ I'm on a journey to build a career as a Web Developer and am currently enhancing
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Bachelor's of Computer Application at Chhatrapati Shahu Ji Maharaj University, Kanpur.
 - 🎓 &nbsp; Studied Master's of Computer Application at Madan Mohan Malviya University of Technology, Gorakhpur.
-- 💼 &nbsp; Working as a Freelancer and searching for Job.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design, Blog Writing and Reading as hobbies/side hustles.
+- 🎓 &nbsp; Currently pursuing PG-DITISS course from CDAC-ACTS, Pune.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Security and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing networking, Blog Writing and Reading as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
