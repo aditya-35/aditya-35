@@ -1,6 +1,6 @@
 <img src="https://github.com/aditya-35/AdityaKumar/blob/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png">
 
-![Banner](https://your-banner-link-here)
+![Banner](https://github.com/aditya-35/aditya-35/blob/main/Gemini_Generated_Image_2gr9bw2gr9bw2gr9.png)
 
 <!-- Replace with your GitHub banner link -->
 
