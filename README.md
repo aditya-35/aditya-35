@@ -1,62 +1,121 @@
 <img src="https://github.com/aditya-35/AdityaKumar/blob/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png">
 
-<h2> Hey there! I'm Aditya.</h2>
-<p> I am curious guy from Unnao,UP.</p>
-<p>A passionate and self-driven tech enthusiast with a background in Software Engineering and a Master of Computer Application (MCA) from Madan Mohan Malviya University of Technology, Gorakhpur.
-Currently Pursuing PG-DITISS from ACTS, CDAC Pune.
+![Banner](https://your-banner-link-here)
 
-I'm on a journey to build a career as a DevSecOps Engineer, with my learning on keen topics like computer networks, linux System Administration.</p>
+<!-- Replace with your GitHub banner link -->
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Bachelor's of Computer Application at Chhatrapati Shahu Ji Maharaj University, Kanpur.
-- 🎓 &nbsp; Studied Master's of Computer Application at Madan Mohan Malviya University of Technology, Gorakhpur.
-- 🎓 &nbsp; Currently pursuing PG-DITISS course from CDAC-ACTS, Pune.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Security and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing networking, Blog Writing and Reading as hobbies/side hustles.
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-
-<br/>
-
-<a href="https://github.com/aditya-35">
-  <img height="180em" src="" />
-  <img height="180em" src="" />
-</a>
-
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 
 <p align="center">
-<a href="https://x.com/Knp_Aditya_"><img alt="Website" src="https://img.shields.io/badge/Twitter-Knp_Aditya_-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/adi35/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Kumar-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/softwareguy.dev"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-softwareguy.dev-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:knpaditya2001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-knpaditya2001@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&lines=DevSecOps+Engineer;Cybersecurity+Engineer;Cloud+%7C+DevOps+%7C+Security;Building+Secure+CI%2FCD+Pipelines;Automating+Everything!&center=true&width=500&height=45">
 </p>
+
+---
+
+## 🌐 **About Me**
+
+I am a **DevSecOps & Cybersecurity Engineer** passionate about building secure, scalable, and automated infrastructures.
+I work across CI/CD, Cloud, Container Security, IaC, and SIEM to deliver **security-driven automation** for modern applications.
+
+I love:
+
+* 🔐 Securing pipelines
+* 🐳 Container security
+* ☁️ AWS automation
+* ⚙️ Infrastructure as Code
+* 🛡 Detecting & analyzing vulnerabilities
+
+---
+
+# 🛠️ **Tech Stack & Skills**
+
+### 🚀 **DevOps / CI-CD**
+
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+### 🐳 **Containers & Orchestration**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+
+### ⚙️ **Infrastructure as Code**
+
+<p>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+</p>
+
+### ☁️ **Cloud (AWS)**
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+### 🛡️ **Cybersecurity / DevSecOps**
+
+<p>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wazuh-005FFF?style=for-the-badge&logo=wazuh&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-4E9BCD?style=for-the-badge&logo=owasp&logoColor=white"/>
+</p>
+
+### 💻 **Operating Systems**
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white"/>
+</p>
+
+---
+
+# 📂 **Highlighted Projects**
+
+### 🔐 **1. Secure CI/CD Pipeline (DevSecOps Pipeline)**
+
+* Integrated **SonarQube (SAST)**, **Trivy**, and GitHub + Jenkins
+* Automated builds, tests, and deployments
+* Enhanced vulnerability detection & code security
+* Implemented secure secrets management
+
+### ☁️ **2. AWS Terraform Infrastructure**
+
+* Built AWS VPC, EC2, IAM, and networking using Terraform
+* Automated secure cloud infrastructure provisioning
+* Version-controlled IaC design
+
+### 🐳 **3. Docker + Kubernetes Deployment**
+
+* Containerized application workloads
+* Deployed to Kubernetes clusters
+* Secured workloads with policies & monitoring
+
+---
+
+# 📊 **GitHub Analytics**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya-35&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-35&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+# 📫 **Connect With Me**
+
+<p>
+  <a href="mailto:knpaditya2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/adi35/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/aditya-35"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">⭐ Thanks for visiting! If you like my work, consider giving my repositories a star!</p>
 
