@@ -63,7 +63,8 @@ I love:
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white"/>
   <!-- <img src="https://img.shields.io/badge/Wazuh-005FFF?style=for-the-badge&logo=wazuh&logoColor=white"/> -->
-  <img src="https://img.shields.io/badge/OWASP_ZAP-4E9BCD?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
+
 </p>
 
 ### 💻 **Operating Systems**
